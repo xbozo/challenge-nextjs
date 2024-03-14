@@ -4,6 +4,9 @@ Este projeto usa **TailwindCSS** para estilização, **axios** e **fetch** para 
 
 ### Setup
 
-- npm install
-- npm run dev
-- npm run server
+```powershell
+npm install
+
+npm run dev
+npm run server
+```
